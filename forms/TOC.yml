@@ -1,0 +1,14 @@
+- name: Amministratore Microsoft Forms
+  href: index.yml
+- name: Impostazioni amministratore per Microsoft Forms
+  href: /microsoft-forms/administrator-settings-microsoft-Forms
+- name: Configurare Microsoft Forms
+  href: /microsoft-forms/set-up-microsoft-forms
+- name: Attivare o disattivare Microsoft Forms
+  href: /microsoft-forms/turn-off-turn-on-microsoft-forms
+- name: 'Informazioni sull''amministratore: domande frequenti'
+  href: /microsoft-forms/admin-information
+- name: Rivedere e sbloccare moduli o utenti individuati e bloccati per potenziale phishing
+  href: /microsoft-forms/review-unblock-forms-users-detected-blocked-potential-phishing
+- name: Microsoft Forms e gli account utente
+  href: /microsoft-forms/microsoft-forms-user-accounts
