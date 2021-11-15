@@ -1,0 +1,26 @@
+### YamlMime:Hub
+title: Amministratore Microsoft Forms
+summary: 'Con Microsoft Forms è possibile creare facilmente sondaggi, test, votazioni e altri tipi di moduli. Usando quasi tutti i Web browser o i dispositivi mobili, è possibile invitare le persone a rispondere al modulo, visualizzare i risultati in tempo reale mentre vengono inviati, usare l''analisi predefinita per valutare le risposte, ed esportare i risultati in Excel per un''ulteriore analisi o valutazione. Forms è disponibile a livello generale per i clienti di Office 365 Education, di Microsoft 365 Apps for business e per i clienti con un account Microsoft (Hotmail, Live o Outlook.com).'
+brand: m365
+metadata:
+  title: Amministratore Microsoft Forms
+  description: Panoramica sulla figura dell'amministratore di Microsoft Forms
+  ms.service: Forms Admin
+  ms.topic: hub-page
+  audience: ITPro
+  author: samanro
+  ms.author: samanro
+  ms.date: 11/03/2021
+  localization_priority: Priority
+additionalContent:
+  sections:
+    - title: Per professionisti IT
+      items:
+        - title: Amministratori
+          summary: Altre informazioni sulle impostazioni di Amministratore di Microsoft Forms e su come configurare Form a seconda delle esigenze dell'organizzazione.
+          url: /microsoft-forms/administrator-settings-microsoft-Forms
+    - title: Per altri gruppi di destinatari
+      items:
+        - title: Utenti finali
+          summary: 'Creare, inviare, e analizzare un modulo, un test o un sondaggio'
+          url: 'https://support.microsoft.com/forms'
